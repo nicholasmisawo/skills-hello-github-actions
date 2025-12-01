@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 🎉 Congratulations nicholasmisawo! 🎉
+# 🎉 Congratulations dependabot[bot]! 🎉
 
 <img src="https://octodex.github.com/images/welcometocat.png" height="200px" />
 
